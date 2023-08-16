@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "108979415632",
+    "project_id": "trendyversenew",
+    "storage_bucket": "trendyversenew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108979415632:android:0ecb70272a7dbb25153f55",
+        "android_client_info": {
+          "package_name": "com.example.trendyverse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "108979415632-227k05d85mqrmue2h2nvcm5glg73hndd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.trendyverse",
+            "certificate_hash": "03d4a0b620773b85c69312c4abc20cd43d7f8f62"
+          }
+        },
+        {
+          "client_id": "108979415632-d8e40ia5n0pmb9la1mmmq2ktpdea6rpv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVTZC9gRS4fMBWL-IKz3z2F1rTokUQ5-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "108979415632-d8e40ia5n0pmb9la1mmmq2ktpdea6rpv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

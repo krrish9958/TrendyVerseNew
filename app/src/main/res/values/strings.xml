@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Trendy Verse</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="client_id">108979415632-d8e40ia5n0pmb9la1mmmq2ktpdea6rpv.apps.googleusercontent.com</string>
+</resources>

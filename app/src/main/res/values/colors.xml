@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+
+    //palette
+    <color name="reddish">#DA0037</color>
+    <color name="greyLight">#444444</color>
+    <color name="blackish">#171717</color>
+    <color name="greyWhite">#EDEDED</color>
+    <color name="linkBlue">#759AE4</color>
+</resources>
